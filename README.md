@@ -1,2 +1,0 @@
-# MDCAT-TEST-Service.-
-Test 
